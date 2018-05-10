@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F5ED2C71-461C-42CC-B15A-AEB72944A03A}"
+	ProjectSection(SolutionItems) = preProject
+		eMailReleaseTemplate.vb = eMailReleaseTemplate.vb
+		hyperlinks.vb = hyperlinks.vb
+		readOnlyActions.vb = readOnlyActions.vb
+		releaseScript.vb = releaseScript.vb
+		styleCleanup.vb = styleCleanup.vb
+		thisWorkbook.vb = thisWorkbook.vb
+		workbookHealth.vb = workbookHealth.vb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
